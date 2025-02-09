@@ -1,5 +1,5 @@
 [workspace]
-members = ["programs/*", "cli", "market_making", "commons"]
+members = ["programs/lb_clmm", "cli", "market_making", "commons"]
 resolver = "2"
 
 [workspace.dependencies]
